@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace VillaSofia
 {
-    public partial class Form1 : Form
+    public partial class Prueba : Form
     {
-        public Form1()
+        public Prueba()
         {
             InitializeComponent();
-        }
-
-        private void guna2Button1_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }

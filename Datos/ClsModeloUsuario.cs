@@ -9,7 +9,7 @@ namespace Datos
     public class ClsModeloUsuario
     {
         int id, id_tpo;
-        String Usuario, password, conPassword, nombre;
+        String Usuario, password, conPassword, nombre, tipo;
 
         public string Usuario1 { get => Usuario; set => Usuario = value; }
         public string Password { get => password; set => password = value; }
